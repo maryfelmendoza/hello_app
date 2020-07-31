@@ -4,41 +4,34 @@
 
 # Hello App Project
 
-> This is a repo for the templates that it will be useful in our daily basis as developer to keep the things in a professional way.
+Our goal for the first application Hello App is to write a “hello, world” program. In particular, we will create a simple application that displays the string “hello, world!” on a web page, both on our development environment and on the live web.
 
-
-Additional description about the project and its features.
+Additional description about the project and its features read [Chapter 1](https://www.learnenough.com/course/ruby_on_rails_tutorial_4th_edition/beginning).
 
 ## Built With
 
 - Languages: HTML, CSS, Ruby and JavaScript.
-- Framework: Bootstrap
-- Tecnologies: RoR
+- Framework: RoR
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
+### Prerequisites
+- Cloud9 IDE recommended
 
 ## Getting Started
+- Follow the steps [here](https://www.learnenough.com/course/ruby_on_rails_tutorial_4th_edition/beginning/the_hello_application#sec-the_hello_application)
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Bundler
+- After creating a new Rails application, the next step is to use Bundler to install and include the gems needed by the app.
+- Follow the steps [here](https://www.learnenough.com/course/ruby_on_rails_tutorial_4th_edition/beginning/the_hello_application#sec-bundler)
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+### Installation and Setup
+- Follow the steps [here](https://www.learnenough.com/course/ruby_on_rails_tutorial_4th_edition/beginning/version_control#sec-git_setup)
 
 ### Deployment
+- Follow the steps [here](https://www.learnenough.com/course/ruby_on_rails_tutorial_4th_edition/beginning/deploying)
 
 
 
